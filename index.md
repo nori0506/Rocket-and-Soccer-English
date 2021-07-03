@@ -17,8 +17,7 @@ The Company shall expressly show the purpose of utilization and shall not obtain
 ■ Purpose of Utilization
 The Company shall use the Personal Information within the scope necessary for the achievement of the purpose of utilization as follows;
 
- (1) to respond to opinions, demands or inquiries, etc.; 
-
+ (1) to respond to opinions, demands or inquiries, etc.
  (2) to perform questionnaires, campaigns or events, etc.; 
 
  (3) to perform marketing research or analysis with respect to situation of utilization or implementation of the Company's services; 
