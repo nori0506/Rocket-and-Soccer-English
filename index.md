@@ -18,12 +18,19 @@ The Company shall expressly show the purpose of utilization and shall not obtain
 The Company shall use the Personal Information within the scope necessary for the achievement of the purpose of utilization as follows;
 
 (1) to respond to opinions, demands or inquiries, etc.; 
+
 (2) to perform questionnaires, campaigns or events, etc.; 
+
 (3) to perform marketing research or analysis with respect to situation of utilization or implementation of the Company's services; 
+
 (4) to survey and analyze for improvement or enhancement of the quality of the Company's services;  
+
 (5) to survey and analyze for planning of new services or new functions;  
+
 (6) to survey or solve system failures, problems or accidents of the Company's services or network, etc.; 
+
 (7) to otherwise operate the Company's services smoothly. 
+
 
 ■ Provision to Third Parties
 The Company shall not provide the Personal Information to third parties without obtaining the prior consent of the principal (including the consent pursuant to a specific provision in terms and conditions of the Company's services) except in the following cases;
