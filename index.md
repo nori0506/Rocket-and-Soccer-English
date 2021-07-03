@@ -17,21 +17,21 @@ The Company shall expressly show the purpose of utilization and shall not obtain
 ■ Purpose of Utilization
 The Company shall use the Personal Information within the scope necessary for the achievement of the purpose of utilization as follows;
 
-(1) to respond to opinions, demands or inquiries, etc.;
-(2) to perform questionnaires, campaigns or events, etc.;
-(3) to perform marketing research or analysis with respect to situation of utilization or implementation of the Company's services;
-(4) to survey and analyze for improvement or enhancement of the quality of the Company's services;
-(5) to survey and analyze for planning of new services or new functions;
-(6) to survey or solve system failures, problems or accidents of the Company's services or network, etc.;
-(7) to otherwise operate the Company's services smoothly.
+(1) to respond to opinions, demands or inquiries, etc.; 
+(2) to perform questionnaires, campaigns or events, etc.; 
+(3) to perform marketing research or analysis with respect to situation of utilization or implementation of the Company's services; 
+(4) to survey and analyze for improvement or enhancement of the quality of the Company's services;  
+(5) to survey and analyze for planning of new services or new functions;  
+(6) to survey or solve system failures, problems or accidents of the Company's services or network, etc.; 
+(7) to otherwise operate the Company's services smoothly. 
 
 ■ Provision to Third Parties
 The Company shall not provide the Personal Information to third parties without obtaining the prior consent of the principal (including the consent pursuant to a specific provision in terms and conditions of the Company's services) except in the following cases;
 
-(1) cases where the Company entrusts all or part of the business of the Company to a third party;
-(2) cases where the Company discloses to a third party that executes a non disclosure agreement with the Company;
-(3) cases where the provision of Personal Information is permitted under the Act on the Protection of Personal Information of Japan and any other laws or regulations; or
-(4) cases where a court, a police, a governmental authority such as a tax office or public organization such as a bar association requests the Company to disclose under laws or      regulations.
+(1) cases where the Company entrusts all or part of the business of the Company to a third party; 
+(2) cases where the Company discloses to a third party that executes a non disclosure agreement with the Company; 
+(3) cases where the provision of Personal Information is permitted under the Act on the Protection of Personal Information of Japan and any other laws or regulations; or 
+(4) cases where a court, a police, a governmental authority such as a tax office or public organization such as a bar association requests the Company to disclose under laws or      regulations.  
 
 ■ Disclosure, Correction, Deletion, etc.
 If you hope to disclose, correct, add or delete your Personal Information under the Act on the Protection of Personal Information of Japan or any other laws and regulations, please contact us.
